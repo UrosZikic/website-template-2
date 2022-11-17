@@ -10,6 +10,7 @@ body {
 
 .hero {
   background-image: url(1.png);
+  background-image: cover;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -137,9 +138,11 @@ body {
 }
 .inner-left {
   background-image: url(2.png);
+	 background-size: cover;
 }
 .inner-right {
   background-image: url(3.png);
+	 background-size: cover;
 }
 .new-img {
   background-image: url(4.png);
@@ -147,6 +150,7 @@ body {
 }
 .new-img2 {
   background-image: url(5.png);
+	 background-size: cover;
 }
 .upper-separator,
 .bottom-separator {
@@ -226,6 +230,7 @@ input::placeholder {
   justify-content: center;
   align-items: center;
   background-image: url(6.png);
+	 background-size: cover;
   color: #f8f9fa;
   font-family: cinzel;
 }
