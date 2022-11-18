@@ -345,16 +345,16 @@ a {
   }
   .headline-header,
   .welcome-headline {
-    font-size: 40px;
+    font-size: 35px;
   }
   .welcome-headline {
     width: 375px;
   }
   .contact h2 {
-    font-size: 30px;
+    font-size: 25px;
   }
   .last h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
   .last-button button {
     width: 160px;
