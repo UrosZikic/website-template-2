@@ -364,18 +364,21 @@ a {
   .headline,
   .welcome-headline,
   .welcome-text {
-    width: 320px;
+    width: 300px;
   }
   .headline-info {
     font-size: 13px;
   }
   .contact h2 {
-    font-size: 20px;
+    font-size: 15px;
   }
   .last-button button {
     width: 140px;
   }
   .last-info {
     font-size: 13px;
+  }
+  .last h2 {
+    font-size: 30px;
   }
 }
