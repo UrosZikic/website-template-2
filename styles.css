@@ -342,7 +342,7 @@ a {
 @media only screen and (max-width: 375px)  {
   .headline,
   .welcome-text {
-    width: 360px;
+    width: 340px;
   }
   .headline-header,
   .welcome-headline {
@@ -355,7 +355,7 @@ a {
     font-size: 25px;
   }
   .last h2 {
-    font-size: 35px;
+    font-size: 25px;
   }
   .last-button button {
     width: 160px;
@@ -365,7 +365,7 @@ a {
   .headline,
   .welcome-headline,
   .welcome-text {
-    width: 300px;
+    width: 290px;
   }
   .headline-info {
     font-size: 13px;
