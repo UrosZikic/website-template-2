@@ -316,7 +316,7 @@ a {
     width: 768px;
   }
 }
-@media only screen and (min-width: 425px)  {
+@media only screen and (max-width: 425px)  {
   .headline,
   .welcome-text {
     width: 420px;
@@ -339,7 +339,7 @@ a {
     flex-direction: column;
   }
 }
-@media only screen and (min-width: 375px)  {
+@media only screen and (max-width: 375px)  {
   .headline,
   .welcome-text {
     width: 360px;
@@ -361,7 +361,7 @@ a {
     width: 160px;
   }
 }
-@media only screen and (min-width: 320px)  {
+@media only screen and (max-width: 320px)  {
   .headline,
   .welcome-headline,
   .welcome-text {
