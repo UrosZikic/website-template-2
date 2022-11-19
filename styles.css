@@ -319,18 +319,22 @@ a {
 @media only screen and (max-width: 425px)  {
   .headline,
   .welcome-text {
-    width: 420px;
+    width: 3900px;
   }
   .headline-header,
   .welcome-headline {
-    font-size: 50px;
-  }
-  .welcome-headline {
-    width: 425px;
-  }
-  .contact h2 {
     font-size: 40px;
   }
+  .welcome-headline {
+    width: 410px;
+  }
+  .contact h2 {
+    font-size: 30px;
+  }
+  .last h2 {
+    font-size: 30px;
+  }
+  
   .slider {
     right: 35px;
     bottom: 45px;
